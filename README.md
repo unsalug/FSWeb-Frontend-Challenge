@@ -13,6 +13,8 @@ S12 içinde de Workintech eğitmenlerine, adeta bir teknik mülakttaymış gibi,
 
 Not\* Bu dökümanın en sonunda da, sunumda seni değerlendireceğimiz başlıkları da bulabilirsin.
 
+## Vercel Website Link = https://fs-web-frontend-challenge-tau.vercel.app/
+
 ## Talimatlar
 
 ### Görev 1: Proje Kurulumu
