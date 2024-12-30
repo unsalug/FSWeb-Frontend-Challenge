@@ -94,7 +94,7 @@ const Header = (props) => {
                 {hData.projects}
               </a>
             </li>
-            <a className="hireButton" href="mailto:gokhansisman@outlook.com">
+            <a className="hireButton" href="mailto:ugurunsalitu34@gmail.com">
               {hData.hire}
             </a>
           </ul>
